@@ -1,1 +1,1 @@
-# simple-timer
+# simple-stopwatch
